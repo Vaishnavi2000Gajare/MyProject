@@ -1,0 +1,109 @@
+h5#zero {
+    margin-left: -18px;
+}
+nav.navbar.navbar-expand.navbar-light{
+    background-color: deeppink;
+}
+h3#ngs {
+    margin-top: 78px;
+    color: deeppink;
+    font-style: oblique;
+    font-family: 'GravurRegular', sans-serif;
+}
+h6#ngs1 {
+    margin-top: 26px;
+    color: deeppink;
+    font-weight: 300;
+    font: caption
+}
+button#btn {
+    color: 2px solid deeppink ;
+    /* border-radius: 50px; */
+    margin-top: -87px;
+    border: 2px solid deeppink;
+}
+button#btn1 {
+    color: 2px solid deeppink ;
+    /* border-radius: 50px; */
+    margin-top: 112px;
+    border: 2px solid deeppink;
+    margin-top: 143px;
+    margin-left: -198px;
+    width: 200px;
+}
+h6#cat {
+    margin-top: 60px;
+   
+}
+h6#re {
+    margin-top: 10px;
+    color: deeppink;
+   
+}
+
+h6#avi{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+span.carousel-control-prev-icon{
+    border: 2px solid deeppink;
+    border-radius: 100%;
+    background-color: deeppink;
+}
+.carousel-control-next-icon{
+    border: 2px solid deeppink;
+    border-radius: 100%;
+    background-color: deeppink;
+
+}
+img.d-block.w-100{
+    margin-top: 83px;
+}
+button.accordion-button{
+    font-weight: 700;
+    color: deeppink;
+    margin-bottom: 0px;
+}
+img#imgh {
+    height: 94%;
+    width: 22%;
+    margin-top: 60px;
+    /* border: 1px solid deeppink; */
+    /* padding-bottom: 10px; */
+}
+div#may {
+    text-align: center;
+    margin-left: 306px;
+    margin-top: 76px;
+    font-size: xx-large;
+    color: deeppink;
+}
+.card-title.h5 {
+    font-size: unset;
+    color: deeppink;
+}
+.card {
+    margin-right: 89px;
+    margin-top: 40px;
+}
+.new{
+    background-color: #f0f8ff;
+    margin-top: 90px;
+    padding-bottom: 74px;
+}
+h2#rel {
+    padding-top: 57px;
+    color: deeppink;
+}
+.card.card {
+    margin-right: 20px;
+    /* width: 13rem; */
+   
+        margin-left: 62px;
+    
+}
+.foo {
+    /* background-color: deeppink; */
+    background-color: #f136c1;
+    background-image: linear-gradient(to top right, #009fe3, #f136c1);
+}
